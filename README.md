@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=choskas" alt="choskas" /></a> </p>
 
-- 🔭 I’m currently working on [Flink](miflink.com)
+- 🔭 I’m currently working on [Flink](https://miflink.com/)
 
-- I'm the owner of [Cards Seeker](cardsseeker.com)
+- I'm the owner of [Cards Seeker](https://www.cardsseeker.com/)
 
 - 💬 Ask me about **JS, React, Node, Mongo, Lambda**
 
