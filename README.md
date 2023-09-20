@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=choskas" alt="choskas" /></a> </p>
 
-- 🔭 I’m currently working on [Flink](https://miflink.com/)
+- 🔭 I’m currently working on [Cualli](https://cualli.mx/)
 
 - I'm the owner of [Cards Seeker](https://www.cardsseeker.com/)
 
-- 💬 Ask me about **JS, React, Node, Mongo, Lambda**
+- 💬 Ask me about **JS, Typescript, CSS, React, Node, Mongo, Nextjs, Tailwind, Cypress, AWS **
 
 - 📫 Reach me on **choskasdelta@gmail.com**
 
